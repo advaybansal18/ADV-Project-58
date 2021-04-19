@@ -1,0 +1,13 @@
+body
+{text-align: center;}
+#title
+{font-size:50px;}
+#author
+{font-size:40px;}
+#story
+{font-size: 30px;}
+#links
+{ list-style: none; position: fixed; top: 10px; right: 30px; cursor: pointer; z-index: 10; }
+.access
+{ float: left; color: fuchsia; padding-top: 5px; padding-left: 9px; padding-right: 9px; padding-bottom: 5px; font-family: fantasy; font-size: 20px }
+.links:hover { background-color: aqua; }
